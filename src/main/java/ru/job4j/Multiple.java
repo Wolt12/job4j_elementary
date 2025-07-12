@@ -1,4 +1,4 @@
-package ru.job4j.ru.job4j;
+package ru.job4j;
 
 public class Multiple {
     public static void main(String[] arc) {
@@ -20,6 +20,7 @@ public class Multiple {
         System.out.println("1 * 9 = 9");
 
         System.out.println("1 * 10 = 10");
+
     }
 
 }
